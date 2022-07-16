@@ -7,13 +7,13 @@ import 'firebase/compat/firestore';
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCT9fXq02O0fCi7C7tBWTFNCND0sKJJBNA",
-    authDomain: "clone-b5811.firebaseapp.com",
-    projectId: "clone-b5811",
-    storageBucket: "clone-b5811.appspot.com",
-    messagingSenderId: "397847835639",
-    appId: "1:397847835639:web:7f039a38eecc64cc6ef4f2",
-    // measurementId: "G-T3QLDK8FKX"
+    apiKey: "__",
+    authDomain: "__",
+    projectId: "__",
+    storageBucket: "__",
+    messagingSenderId: "__",
+    appId: "__",
+    // measurementId: "__"
   };
 
 
